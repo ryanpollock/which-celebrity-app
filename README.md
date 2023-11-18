@@ -2,7 +2,7 @@ This is a [Clarifai](https://clarifai.com/) project bootstrapped with [`create-n
 
 ## Getting Started
 
-First, run the development server:
+1st, run the development server:
 
 ```bash
 npm run dev
